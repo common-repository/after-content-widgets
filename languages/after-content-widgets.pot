@@ -1,0 +1,73 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: After Content Widgets\n"
+"POT-Creation-Date: 2017-01-28 12:23+0100\n"
+"PO-Revision-Date: 2017-01-28 12:23+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: after-content-widgets.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/content-widgets.php:111
+msgid "Content widgets"
+msgstr ""
+
+#: includes/content-widgets.php:139
+#, php-format
+msgid "Hide content widgets on this %s?"
+msgstr ""
+
+#: includes/content-widgets.php:162
+#, php-format
+msgid "After %s widgets"
+msgstr ""
+
+#: includes/content-widgets.php:167
+#, php-format
+msgid "Widgets placed here will be displayed after the content on %s."
+msgstr ""
+
+#: includes/content-widgets.php:269
+msgid "Content Widgets"
+msgstr ""
+
+#: includes/content-widgets.php:307
+#, php-format
+msgid "Display content widgets on %s"
+msgstr ""
+
+#: includes/content-widgets.php:325
+msgid "Display order"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "After Content Widgets"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Easy way to add after content widgets. Supports posts, pages and custom post "
+"types. Light and flexible."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Serge Liatko"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid ""
+"http://sergeliatko.com/?utm_source=after-content-"
+"widgets&utm_medium=textlink&utm_content=authorlink&utm_campaign=wpplugins"
+msgstr ""
